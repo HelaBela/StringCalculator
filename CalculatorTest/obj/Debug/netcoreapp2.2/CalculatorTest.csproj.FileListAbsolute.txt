@@ -1,0 +1,17 @@
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/bin/Debug/netcoreapp2.2/CalculatorTest.deps.json
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/bin/Debug/netcoreapp2.2/CalculatorTest.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/bin/Debug/netcoreapp2.2/CalculatorTest.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/bin/Debug/netcoreapp2.2/CalculatorTest.dll
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/bin/Debug/netcoreapp2.2/CalculatorTest.pdb
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/bin/Debug/netcoreapp2.2/StringCalculator.dll
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/bin/Debug/netcoreapp2.2/StringCalculator.pdb
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/obj/Debug/netcoreapp2.2/CalculatorTest.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/obj/Debug/netcoreapp2.2/CalculatorTest.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/obj/Debug/netcoreapp2.2/CalculatorTest.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/obj/Debug/netcoreapp2.2/CalculatorTest.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/obj/Debug/netcoreapp2.2/CalculatorTest.csproj.CopyComplete
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/obj/Debug/netcoreapp2.2/CalculatorTest.dll
+/Users/helena.franczak/RiderProjects/StringCalculator/CalculatorTest/obj/Debug/netcoreapp2.2/CalculatorTest.pdb

@@ -1,0 +1,11 @@
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/bin/Debug/netcoreapp2.2/StringCalculator.deps.json
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/bin/Debug/netcoreapp2.2/StringCalculator.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/bin/Debug/netcoreapp2.2/StringCalculator.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/bin/Debug/netcoreapp2.2/StringCalculator.dll
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/bin/Debug/netcoreapp2.2/StringCalculator.pdb
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/obj/Debug/netcoreapp2.2/StringCalculator.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/obj/Debug/netcoreapp2.2/StringCalculator.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/obj/Debug/netcoreapp2.2/StringCalculator.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/obj/Debug/netcoreapp2.2/StringCalculator.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/obj/Debug/netcoreapp2.2/StringCalculator.dll
+/Users/helena.franczak/RiderProjects/StringCalculator/StringCalculator/obj/Debug/netcoreapp2.2/StringCalculator.pdb
